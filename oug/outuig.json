@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 2,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "true",
             "activate_step_email" : "true",
             "one_signal" : "",
@@ -30,7 +30,7 @@
             "fan_native": "IMG_16_9_APP_INSTALL#5352092381549612_5352094618216055",
             "fan_int": "IMG_16_9_APP_INSTALL#5352092381549612_5352095061549344",
 
-            "iron_source_key": "",
+            "iron_source_key": "17d186a45",
 
             "main_ico": "https://raw.githubusercontent.com/leverpo/leverpo.github.io/main/Nouveau%20dossier/5.png",
             
