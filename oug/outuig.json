@@ -147,7 +147,7 @@
     
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "",
             "bg" : "#FB923C"
@@ -177,17 +177,17 @@
             "ico" : "https://9asso.github.io/published/imgs/btimgs.png",
             "bg" : "#4ADE80"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "wallpapers",
             "ico" : "https://9asso.github.io/published/imgs/btwalls.png",
             "bg" : "#2196F3"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "more",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
