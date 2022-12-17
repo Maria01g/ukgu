@@ -8,9 +8,9 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 2,
-            "activate_ads" : "true",
-            "activate_steps" : "true",
-            "activate_step_email" : "true",
+            "activate_ads" : "false",
+            "activate_steps" : "false",
+            "activate_step_email" : "false",
             "one_signal" : "",
             "network" : "is",
 
@@ -162,7 +162,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#A3E635"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#38BDF8"
