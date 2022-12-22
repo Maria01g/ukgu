@@ -8,7 +8,7 @@
             "vpn_password" : "204703142",
 
             "int_interval" : 2,
-            "activate_ads" : "false",
+            "activate_ads" : "true",
             "activate_steps" : "false",
             "activate_step_email" : "false",
             "one_signal" : "",
@@ -162,7 +162,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btspin.png",
             "bg" : "#A3E635"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "scratch",
             "ico" : "https://9asso.github.io/published/imgs/btscratch.png",
             "bg" : "#38BDF8"
@@ -187,7 +187,7 @@
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://9asso.github.io/published/imgs/btgames.png",
             "bg" : "#673AB7"
